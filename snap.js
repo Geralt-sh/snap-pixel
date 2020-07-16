@@ -1,4 +1,5 @@
 <!-- Snap Pixel Code -->
+<script type='text/javascript'>
 (function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()
 {a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)};
     a.queue=[];var s='script';r=t.createElement(s);r.async=!0;
@@ -9,3 +10,4 @@
 'user_email': ''
 });
 snaptr('track', 'PAGE_VIEW');
+</script>
